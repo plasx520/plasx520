@@ -25,24 +25,9 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
-#  🙋 Hello
+🧰 常用的工具:
 
-<p>✍️&nbsp;&nbsp;大家好，我是怕冷爱上雪! 目前就家研究计算机代码，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
-
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
-💪 正在学习: 
-
-&emsp;&emsp;
+&emsp;&emsp; 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -51,10 +36,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-
-🧠 计划学习:
-
-&emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -63,10 +44,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
-
-🧰 常用的工具:
-
-&emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -76,45 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<!-- Gif -->
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
-
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
 # 🚀 Actions
-
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br>
-
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
-<br>
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
@@ -123,94 +62,7 @@
 </div>
 <br>
 
-<!-- 最近博客和豆瓣动态 -->
-<table align="center">
-<tr>
-<td valign="top">    
 
-### 🤹‍♀️ <a href="https://4t.pw/" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-* <a href='https://4t.pw/' target='_blank'>冥冥之中，自有注定，但行好事，莫问前程！</a> - 2022-08-11
-* <a href='https://4t.pw/' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://4t.pw/' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://4t.pw/' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://4t.pw/' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-<!-- END_SECTION:blog -->
-  
-</td>
-    
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-  
-</td> 
-</tr>
-</table>
-
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    255 commits    ██████████░░░░░░░░░░░░░░░   41.6% 
-🌆 Daytime    149 commits    ██████░░░░░░░░░░░░░░░░░░░   24.31% 
-🌃 Evening    133 commits    █████░░░░░░░░░░░░░░░░░░░░   21.7% 
-🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Thursday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Friday       159 commits    ██████░░░░░░░░░░░░░░░░░░░   25.94% 
-Saturday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
-Sunday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   23 mins             █████████████░░░░░░░░░░░░   51.94% 
-JSON                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87% 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.55%
-
-🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 03/11/2022 02:04:49 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
